@@ -140,6 +140,7 @@ iframe {
 }
 
 .form {
+  width: 16em;
   background: black;
   border-style: dotted;
   border-radius: 100vw;

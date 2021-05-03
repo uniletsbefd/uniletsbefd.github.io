@@ -46,6 +46,7 @@
 .menu a,
 .dropdown a,
 .titles {
+  display: block;
   font-family: "Changa", sans-serif;
   padding: 0.5vh 0 0.5vh 0;
 }
@@ -126,7 +127,7 @@ select {
 }
 
 .contents{
-  background: url("/images/uniletsbefd.PNG");
+  background: url("/images/uniletsbefd.png");
   border-style: dotted;
   border-radius: 100vw;
   white-space: pre;
@@ -135,7 +136,7 @@ select {
 
 iframe {
   width: 70em;
-  height: 45em;
+  height: 40em;
 }
 
 .form {

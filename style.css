@@ -162,7 +162,7 @@ svg {
 }
 
 .animation_1 {
-  width: 10em;
+  width: 5em;
   position: relative;
   animation-name: animation_1;
   animation-iteration-count: infinite;

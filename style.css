@@ -1,6 +1,6 @@
 * {
   color: white;
-  background: none;
+  background: black;
   font-family: "Orbitron", sans-serif;
   list-style-type: none;
   margin: 0;
@@ -28,7 +28,8 @@
   animation: animation_3 60s linear infinite alternate;
 }
 
-#image_2, #image_3 {
+#image_2,
+#image_3 {
   background: url(images/VLgalaxy.gif) center/cover scroll no-repeat;
 }
 
@@ -52,10 +53,11 @@
 }
 
 div div a {
-  padding: 0.7em;
+  padding: 0.5em;
   display: inline-block;
-  color: whitesmoke;
-  background-color: black;
+  color: white;
+  margin: 0.5em;
+  background-color: red;
   border: double;
 }
 
@@ -65,8 +67,10 @@ a:hover {
   transform: scale(0.8);
 }
 
-.box, #text_2, #text_6, #text_7
-select {
+.box,
+#text_2,
+#text_6,
+#text_7 select {
   color: black;
   background-color: gainsboro;
   border-style: dotted;
@@ -85,7 +89,7 @@ select {
 }
 
 .form {
-  background-color: black;
+  background-color: white;
   top: 13em;
   width: 20em;
   height: 35em;
@@ -126,12 +130,12 @@ select {
   transition: 0.3s;
 }
 
-.contents{
+.contents {
   background: url("/images/uniletsbefd.png");
-  border-style: dotted;
+  border-style: solid;
+  border-color: palegreen;
   border-radius: 100vw;
   white-space: pre;
-  text-shadow: 0 0.07em 0.07em blue;
 }
 
 iframe {
@@ -141,11 +145,11 @@ iframe {
 
 .form {
   width: 16em;
-  background: black;
+  background: white;
   border-style: dotted;
   border-radius: 100vw;
   white-space: pre;
-  text-shadow: 0 0.07em 0.07em blue;
+  text-shadow: 0 0.08em 0.08em grey;
 }
 
 svg {
@@ -153,7 +157,7 @@ svg {
   margin: 1vh;
   width: 5vw;
   background: lightyellow;
-  border: black;
+  border: white;
   border-style: solid;
 }
 

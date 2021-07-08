@@ -6799,9 +6799,8 @@ hr {
 }
 
 .mailchimp-form {
+	text-align: center;
 	display: flex;
-	margin: 2em .5em 0;
-	padding: 7px 15px 7px 20px;
 	border: 1px solid #00ffce;
 	border-radius: 7px;
 	transition: .3s
@@ -6847,7 +6846,6 @@ hr {
 @media (min-width: 45em) {
 	.mailchimp-form {
 		margin: 0;
-		padding-left: 30px
 	}
 	.mailchimp-form .email-field {
 		font-size: 20px
@@ -8332,7 +8330,7 @@ hr {
 }
 
 .mobile-nav .menu-item.menu-item-has-children.is-open:after {
-	background-image: url("/wp-content/themes/hut-8-mining-update/assets/images/icons/icon-chevron-up.svg")
+	background-image: url("/uniletsbefd-logo/logo_transparent\ 2.png")
 }
 
 .mobile-nav .menu-item.menu-item-has-children:after {

@@ -6684,7 +6684,7 @@ hr {
 	width: 100%;
 	height: 0;
 	background-color: black;
-	background-image: url("/wp-content/themes/hut-8-mining-update/assets/images/logo-white.svg");
+	background-image: url("/uniletsbefd-logo/logo_transparent\ 2.png");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: 45% auto
@@ -8256,7 +8256,7 @@ hr {
 	margin: 0;
 	width: 130px;
 	height: 100px;
-	background-image: url("/wp-content/themes/hut-8-mining-update/assets/images/logo.svg");
+	background-image: url("/uniletsbefd-logo/logo_transparent\ 2.png");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -8264,7 +8264,7 @@ hr {
 }
 
 .hut-8-logo.theme-white {
-	background-image: url("/wp-content/themes/hut-8-mining-update/assets/images/logo-white.svg")
+	background-image: url("/uniletsbefd-logo/logo_transparent\ 2.png")
 }
 
 .directory-nav .menu {

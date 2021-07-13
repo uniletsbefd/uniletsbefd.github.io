@@ -119,11 +119,11 @@ Version: 1.0
 }
 
 .bright-turquoise-color {
-	color: #00ffce !important
+	color: #9faca7 !important
 }
 
 .bright-turquoise-background-color {
-	background-color: #00ffce !important
+	background-color: #9faca7 !important
 }
 
 .light-grey-background-gradient {
@@ -135,7 +135,7 @@ Version: 1.0
 }
 
 .bright-turquoise-background-gradient {
-	background: linear-gradient(to right, #00ffce, #45fff0)
+	background: linear-gradient(150deg, lightblue, #45fff0)
 }
 
 * {
@@ -6003,7 +6003,7 @@ hr {
 
 .quotes-carousel .swiper-container .carousel-pagination .slide-button:hover,
 .quotes-carousel .swiper-container .carousel-pagination .slide-button.is-active {
-	background-color: #00ffce;
+	background-color: #9faca7;
 	box-shadow: 0 0 20px rgba(43, 254, 207, 0.8)
 }
 
@@ -6095,7 +6095,7 @@ hr {
 .content a:not(.button) {
 	position: relative;
 	padding-bottom: 2px;
-	border-bottom: 2px solid #00ffce;
+	border-bottom: 2px solid #9faca7;
 	color: #969696;
 	transition: border-color .15s linear, color .15s linear
 }
@@ -6107,7 +6107,7 @@ hr {
 
 .content a:not(.button):hover,
 .content a:not(.button):focus {
-	color: #00ffce
+	color: #9faca7
 }
 
 .content a:not(.button):active {
@@ -6506,7 +6506,7 @@ hr {
 .content.theme-bright-turquoise .h6,
 .content.theme-bright-turquoise p,
 .content.theme-bright-turquoise li {
-	color: #00ffce
+	color: #9faca7
 }
 
 .content.theme-silver-chalice h3,
@@ -6801,7 +6801,7 @@ hr {
 .mailchimp-form {
 	text-align: center;
 	display: flex;
-	border: 1px solid #00ffce;
+	border: 1px solid #9faca7;
 	border-radius: 7px;
 	transition: .3s
 }
@@ -7933,7 +7933,7 @@ hr {
 .under-construction {
 	display: flex;
 	align-items: center;
-	background-color: #00ffce;
+	background-color: #9faca7;
 	height: 64px;
 	position: relative
 }
@@ -8187,7 +8187,7 @@ hr {
 	font-weight: 100;
 	font-size: 17px;
 	line-height: 1;
-	color: #00ffce
+	color: #9faca7
 }
 
 .stats-list .list-item .text-arrangement .label-text {

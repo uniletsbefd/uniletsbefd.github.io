@@ -6799,6 +6799,7 @@ hr {
 }
 
 .mailchimp-form {
+	padding: 1em;
 	text-align: center;
 	display: flex;
 	border: 1px solid #9faca7;

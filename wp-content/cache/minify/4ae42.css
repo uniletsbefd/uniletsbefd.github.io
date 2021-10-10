@@ -8812,6 +8812,7 @@ html {
 }
 
 body {
+	padding-top: 60px;
 	position: relative;
 	display: flex;
 	flex-direction: column;

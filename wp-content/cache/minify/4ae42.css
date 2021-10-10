@@ -170,8 +170,9 @@ section {
 }
 
 h1 {
-	font-size: 2em;
-	margin: 0.67em 0
+	font-size: 1em;
+	margin: 1em 0;
+	padding-top: 120px;
 }
 
 figcaption,
@@ -7698,6 +7699,7 @@ hr {
 }
 
 .mobile-site-header {
+	background:black;
 	position: fixed;
 	z-index: 900;
 	top: 0;
@@ -7803,7 +7805,7 @@ hr {
 .page-header .tile-content .h2 {
 	margin-bottom: .4em;
 	font-weight: 100;
-	font-size: 32px;
+	font-size: 26px;
 	line-height: .95
 }
 
@@ -8811,6 +8813,7 @@ html {
 }
 
 body {
+	padding-top: 60px;
 	position: relative;
 	display: flex;
 	flex-direction: column;
